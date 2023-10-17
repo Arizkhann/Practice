@@ -1,0 +1,25 @@
+package com.java.practice;
+
+import java.util.Scanner;
+
+public class Square {
+
+	int side;
+	
+	
+	public int area() {
+		return side*side;
+	}
+	
+	public int perimeter() {
+		return 4*side;
+	}
+	
+	
+	
+	Square obj=new Square();
+	
+	Scanner sc=new Scanner(System.in);
+	Sysout
+	
+}

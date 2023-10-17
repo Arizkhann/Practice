@@ -1,0 +1,19 @@
+package com.java.arizzz;
+
+public class C3 {
+
+	public static void main(String[] args) {
+		
+		
+		
+		String text = "I like ice cream";
+		String replaced = text.replace("ice cream", "chocolate");
+		System.out.println(replaced);
+S
+		
+		
+	}
+	
+	
+	
+}

@@ -1,0 +1,28 @@
+package com.java.practice;
+
+ 
+class Emplooy{
+	String name;
+	int salary;
+	
+	
+	public int getSalary() {
+		return salary;
+	}
+	 
+	public String getName() {
+		return name;
+	}
+	public void setName(String n) {
+		name=n;
+	}
+	public static void main(String[] args) {
+		Emplooy emp=new Emplooy();
+		emp.setName("ariz khan");
+		emp.salary=1200;
+		emp.getName();
+		System.out.println("Employ name is "+emp.getName());
+		System.out.println("salary is "+emp.getSalary());
+	}
+}
+

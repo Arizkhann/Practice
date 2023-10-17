@@ -1,0 +1,37 @@
+package com.java.practice;
+
+import java.util.Scanner;
+
+public class Square {
+
+	int side;
+	
+	
+	public int area() {
+		return side*side;
+	}
+	
+	public int perimeter() {
+		return 4*side;
+	}
+	
+	public static void main(String[] args) {
+		
+	
+	
+	Square obj=new Square();
+	
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter the no.");
+
+	int num=sc.nextInt();
+	
+	x=obj.area();
+	y=obj.perimeter();
+	
+	
+	
+	
+	
+	}
+}

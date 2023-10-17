@@ -1,0 +1,16 @@
+package com.java.arizzz;
+
+public class C7 {
+
+	public static void main(String[] args) {
+		
+		int arr[] = {23,12,5,3,17,88};
+		
+		
+		
+		
+	}
+	
+	
+	
+}

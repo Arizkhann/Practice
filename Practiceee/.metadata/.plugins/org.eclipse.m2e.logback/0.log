@@ -1,0 +1,628 @@
+2023-10-04 00:54:45,097 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-11 22:42:15,699 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-11 22:51:56,893 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-11 22:52:01,635 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: infinite:Practice:0.0.1-SNAPSHOT @ D:\Practiceee\Practice\pom.xml.
+2023-10-11 22:52:03,128 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Practice/src/main/java
+2023-10-11 22:52:03,130 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Practice/src/test/java
+2023-10-11 22:52:03,447 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:52:03,447 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:52:03,449 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:52:03,450 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:52:03,678 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 1.00 sec 
+2023-10-11 22:52:03,849 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:52:03,849 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:52:03,850 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:52:03,851 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:53:19,634 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:53:19,635 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:53:19,636 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:53:19,636 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:53:41,459 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:53:41,459 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:53:41,461 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:53:41,461 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:56:36,637 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:56:36,637 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:56:36,639 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:56:36,639 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:57:34,538 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:57:34,538 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:57:34,539 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:57:34,539 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:58:36,792 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:58:36,793 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:58:36,794 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:58:36,794 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 22:58:59,172 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:58:59,172 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 22:58:59,174 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 22:58:59,174 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:00:02,383 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:02,383 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:00:02,385 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:02,385 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:00:18,881 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:18,881 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:00:18,882 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:18,882 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:00:33,296 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:33,297 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:00:33,298 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:33,298 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:00:48,273 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:48,273 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:00:48,274 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:00:48,275 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:01:00,733 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:01:00,733 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:01:00,734 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:01:00,734 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:01:49,703 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:01:49,704 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:01:49,705 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:01:49,705 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:08:33,223 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:08:33,223 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:08:33,225 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:08:33,225 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:09:58,996 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:09:58,996 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:09:58,998 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:09:58,998 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:18:35,680 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:18:35,681 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:18:35,683 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:18:35,683 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:22:25,942 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:22:25,942 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:22:25,943 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:22:25,943 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:24:32,135 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-11 23:26:17,686 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:26:17,687 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:26:17,689 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:26:17,690 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:26:39,070 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:26:39,071 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:26:39,073 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:26:39,074 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:28:53,544 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:28:53,545 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:28:53,546 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:28:53,546 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:29:05,631 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:29:05,632 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:29:05,633 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:29:05,634 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:30:10,934 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:30:10,934 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:30:10,935 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:30:10,935 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:35:01,347 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:35:01,347 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:35:01,348 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:35:01,349 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:35:10,137 [Worker-2: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:35:10,138 [Worker-2: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:35:10,140 [Worker-2: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:35:10,141 [Worker-2: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:35:29,237 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:35:29,237 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:35:29,239 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:35:29,239 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:36:03,454 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:36:03,455 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:36:03,457 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:36:03,457 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:36:37,326 [Worker-18: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:36:37,326 [Worker-18: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:36:37,328 [Worker-18: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:36:37,329 [Worker-18: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:37:33,652 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:37:33,652 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:37:33,653 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:37:33,653 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:38:02,660 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:38:02,661 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:38:02,662 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:38:02,662 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:41:33,499 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:41:33,499 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:41:33,500 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:41:33,500 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:43:58,242 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:43:58,242 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:43:58,243 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:43:58,243 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:51:26,739 [Worker-32: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:51:26,739 [Worker-32: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:51:26,740 [Worker-32: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:51:26,741 [Worker-32: Launching Square] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:53:34,467 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:53:34,468 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:53:34,471 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:53:34,472 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:56:39,843 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:56:39,843 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:56:39,845 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:56:39,845 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:56:47,266 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:56:47,266 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:56:47,267 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:56:47,267 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:57:44,502 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:57:44,502 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:57:44,504 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:57:44,504 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:58:20,902 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:58:20,902 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:58:20,903 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:58:20,903 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-11 23:59:57,798 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:59:57,798 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-11 23:59:57,799 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 23:59:57,799 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 00:02:56,066 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:02:56,066 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 00:02:56,069 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:02:56,069 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 00:03:22,780 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:03:22,780 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 00:03:22,781 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:03:22,781 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 00:04:29,881 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:04:29,881 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 00:04:29,882 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:04:29,882 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 00:04:40,412 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:04:40,412 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 00:04:40,413 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:04:40,413 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 00:09:03,829 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:09:03,829 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 00:09:03,830 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 00:09:03,830 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 12:57:15,728 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-12 12:58:52,855 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 12:58:52,857 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 12:58:52,862 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 12:58:52,862 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:00:19,907 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:00:19,907 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:00:19,911 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:00:19,911 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:00:46,625 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:00:46,625 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:00:46,628 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:00:46,628 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:02:47,322 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:02:47,322 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:02:47,325 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:02:47,325 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:03:24,389 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:03:24,389 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:03:24,391 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:03:24,391 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:03:46,113 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:03:46,113 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:03:46,115 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:03:46,115 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:04:17,766 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:04:17,767 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:04:17,769 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:04:17,769 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-12 13:04:25,550 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:04:25,550 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\main\resources
+2023-10-12 13:04:25,553 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 13:04:25,553 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Practice\src\test\resources
+2023-10-13 09:48:16,832 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-13 09:52:17,117 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2023-10-13 09:52:17,155 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-10-13 09:52:17,156 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-13 09:52:17,156 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-10-13 09:52:17,156 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-10-13 09:52:17,157 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-10-13 09:52:17,157 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-10-13 09:52:17,157 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-10-13 09:52:17,157 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-10-13 09:52:17,157 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-10-13 09:52:17,157 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-10-13 09:52:17,158 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-10-13 09:52:17,158 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-10-13 09:52:17,158 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-10-13 09:52:17,158 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-10-13 09:52:17,158 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-10-13 09:52:17,159 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-10-13 09:52:17,159 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-10-13 09:52:17,159 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-10-13 09:52:17,160 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-10-13 09:52:17,160 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-10-13 09:52:17,160 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-10-13 09:52:17,161 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-10-13 09:52:17,161 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-10-13 09:52:17,161 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-10-13 09:52:17,161 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-10-13 09:52:17,162 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-10-13 09:52:17,162 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-13 09:52:17,162 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-13 09:52:17,162 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-10-13 09:52:17,162 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-10-13 09:52:17,163 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-10-13 09:52:17,163 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-10-13 09:52:17,163 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-10-13 09:52:17,163 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-13 09:52:17,164 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-10-13 09:52:17,164 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-10-13 09:52:17,164 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-10-13 09:52:17,167 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2023-10-13 09:52:17,168 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-10-13 09:52:17,169 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2023-10-13 09:52:17,170 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-10-13 09:52:17,170 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-10-13 09:52:17,171 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-13 09:52:17,172 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-10-13 09:52:17,173 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-10-13 09:52:17,173 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-10-13 09:52:17,174 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-10-13 09:52:17,174 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-10-13 09:52:17,176 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-13 09:52:17,180 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\arizk\AppData\Local\Temp\m2e-archetypeGenerator16649699639115762334":
+2023-10-13 09:52:17,187 [Worker-30: Launching mavenrun-32f0af09-2b2e-49bf-84cd-d1d68ffebc75] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=de.bripkens -DarchetypeArtifactId=java-quickstart -DarchetypeVersion=0.2.0 -DgroupId=infinite -DartifactId=kgfkufy -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.etc -DoutputDirectory=D:\Practiceee -Dstyle.color=always -U archetype:generate
+2023-10-13 09:52:36,597 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Practiceee\kgfkufy\pom.xml
+2023-10-13 09:52:43,052 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: infinite:kgfkufy:0.0.1-SNAPSHOT @ D:\Practiceee\kgfkufy\pom.xml.
+2023-10-13 09:52:45,024 [Worker-3: Creating java-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kgfkufy/src/main/java
+2023-10-13 09:52:45,041 [Worker-3: Creating java-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kgfkufy/src/test/java
+2023-10-13 09:52:45,555 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:52:45,555 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:52:45,559 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:52:45,559 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:52:45,946 [Worker-3: Creating java-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-10-13 09:52:59,440 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:52:59,440 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:52:59,443 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:52:59,444 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:54:12,255 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:54:12,255 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:54:12,258 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:54:12,258 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:54:14,366 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:54:14,366 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:54:14,371 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:54:14,371 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:54:24,173 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:54:24,173 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:54:24,179 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:54:24,179 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:55:05,561 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:55:05,562 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:55:05,564 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:55:05,564 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:55:39,819 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:55:39,820 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:55:39,822 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:55:39,822 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:57:03,824 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:57:03,825 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:57:03,828 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:57:03,828 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 09:57:10,967 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:57:10,967 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 09:57:10,972 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 09:57:10,973 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:01:22,120 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:01:22,120 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:01:22,123 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:01:22,123 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:02:13,095 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:02:13,095 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:02:13,099 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:02:13,101 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:03:11,026 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:11,027 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:03:11,034 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:11,035 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:03:17,098 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:17,098 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:03:17,100 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:17,100 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:03:22,973 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:22,974 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:03:22,979 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:22,979 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:03:38,348 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:38,349 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:03:38,351 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:03:38,351 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:04:27,105 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:04:27,106 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:04:27,108 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:04:27,108 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:04:37,264 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:04:37,264 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:04:37,268 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:04:37,269 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:05:08,378 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:05:08,378 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:05:08,381 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:05:08,381 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:05:24,258 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:05:24,258 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:05:24,260 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:05:24,260 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:06:55,882 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:06:55,882 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:06:55,883 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:06:55,884 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:07:07,486 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:07,487 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:07:07,489 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:07,490 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:07:25,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:25,617 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:07:25,619 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:25,619 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:07:30,738 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:30,738 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:07:30,739 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:30,740 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:07:40,538 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:40,539 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:07:40,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:07:40,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:08:08,079 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:08:08,079 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:08:08,080 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:08:08,080 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:08:19,359 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:08:19,359 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:08:19,360 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:08:19,360 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-13 10:09:11,442 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:09:11,442 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\main\resources
+2023-10-13 10:09:11,445 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 10:09:11,445 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\kgfkufy\src\test\resources
+2023-10-14 11:59:10,685 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-14 12:10:45,422 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2023-10-14 12:10:45,761 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-10-14 12:10:45,761 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-14 12:10:45,761 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-10-14 12:10:45,761 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-10-14 12:10:45,761 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-10-14 12:10:45,761 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-10-14 12:10:45,762 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-10-14 12:10:45,763 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-10-14 12:10:45,764 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-10-14 12:10:45,765 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-10-14 12:10:45,765 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-14 12:10:45,765 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-10-14 12:10:45,765 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-10-14 12:10:45,765 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-10-14 12:10:45,766 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2023-10-14 12:10:45,767 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-10-14 12:10:45,767 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2023-10-14 12:10:45,767 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-10-14 12:10:45,767 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-10-14 12:10:45,988 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-14 12:10:45,989 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-10-14 12:10:46,218 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-10-14 12:10:46,218 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-10-14 12:10:46,218 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-10-14 12:10:46,219 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-10-14 12:10:46,301 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\arizk\Downloads\eclipse-jee-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-14 12:10:46,306 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\arizk\AppData\Local\Temp\m2e-archetypeGenerator13867127649472634370":
+2023-10-14 12:10:46,324 [Worker-24: Launching mavenrun-b15b699a-77b7-4d23-9d2c-de1ff012a1aa] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=de.bripkens -DarchetypeArtifactId=java-quickstart -DarchetypeVersion=0.2.0 -DgroupId=infinite -DartifactId=arizzz -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.arizzz -DoutputDirectory=D:\Practiceee -Dstyle.color=always -U archetype:generate
+2023-10-14 12:11:03,317 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Practiceee\arizzz\pom.xml
+2023-10-14 12:11:08,824 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: infinite:arizzz:0.0.1-SNAPSHOT @ D:\Practiceee\arizzz\pom.xml.
+2023-10-14 12:11:10,184 [Worker-9: Creating java-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /arizzz/src/main/java
+2023-10-14 12:11:10,198 [Worker-9: Creating java-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /arizzz/src/test/java
+2023-10-14 12:11:10,593 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:11:10,594 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:11:10,596 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:11:10,597 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:11:11,117 [Worker-9: Creating java-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-10-14 12:12:05,932 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:12:05,933 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:12:05,935 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:12:05,935 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:12:52,967 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:12:52,967 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:12:52,969 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:12:52,969 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:12:59,533 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:12:59,534 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:12:59,535 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:12:59,535 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:13:10,088 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:13:10,089 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:13:10,090 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:13:10,091 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:16:45,548 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:16:45,548 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:16:45,550 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:16:45,550 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:17:28,923 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:17:28,923 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:17:28,927 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:17:28,927 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:17:49,300 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:17:49,300 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:17:49,302 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:17:49,302 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:18:09,364 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:18:09,364 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:18:09,367 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:18:09,367 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:19:04,799 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:19:04,799 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:19:04,801 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:19:04,801 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:19:10,642 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:19:10,642 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:19:10,644 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:19:10,644 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:19:19,090 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:19:19,090 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:19:19,092 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:19:19,093 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:20:14,242 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:20:14,242 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:20:14,243 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:20:14,243 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-14 12:20:23,170 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:20:23,170 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-14 12:20:23,173 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-14 12:20:23,173 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:11:11,928 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:11,928 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:11:11,930 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:11,930 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:11:26,280 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:26,280 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:11:26,282 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:26,282 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:11:28,319 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:28,319 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:11:28,321 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:28,321 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:11:54,698 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:54,698 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:11:54,701 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:11:54,702 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:13:20,369 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:13:20,369 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:13:20,370 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:13:20,370 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:13:22,444 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:13:22,444 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:13:22,445 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:13:22,445 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:13:47,660 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:13:47,661 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:13:47,662 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:13:47,662 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:14:42,782 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:14:42,782 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:14:42,783 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:14:42,783 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:17:32,445 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:17:32,446 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:17:32,446 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:17:32,447 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:17:53,365 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:17:53,366 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:17:53,367 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:17:53,367 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:17:59,364 [Worker-39: Launching C7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:17:59,364 [Worker-39: Launching C7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:17:59,367 [Worker-39: Launching C7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:17:59,367 [Worker-39: Launching C7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:18:50,205 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:18:50,205 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:18:50,206 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:18:50,206 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:40:12,684 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:12,684 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:40:12,686 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:12,686 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:40:33,578 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:33,578 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:40:33,579 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:33,579 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:40:36,948 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:36,948 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:40:36,949 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:36,949 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:40:39,845 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:39,845 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:40:39,846 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:39,846 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:40:48,415 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:48,415 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:40:48,417 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:40:48,418 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 10:43:02,012 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:43:02,012 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 10:43:02,014 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 10:43:02,014 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 12:09:53,380 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:09:53,380 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 12:09:53,382 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:09:53,382 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 12:10:33,459 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:10:33,459 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 12:10:33,460 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:10:33,461 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 12:10:42,369 [Worker-57: Launching NumberGame] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:10:42,369 [Worker-57: Launching NumberGame] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 12:10:42,371 [Worker-57: Launching NumberGame] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:10:42,371 [Worker-57: Launching NumberGame] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 12:11:38,964 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:11:38,964 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\main\resources
+2023-10-15 12:11:38,966 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 12:11:38,966 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\arizzz\src\test\resources
+2023-10-15 23:38:13,103 [Worker-62: Launching mavenrun-9907d59c-ed75-4b72-a794-ce8e220dc346] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\arizk\AppData\Local\Temp\m2e-archetypeGenerator18427874646664635244":
+2023-10-15 23:38:13,104 [Worker-62: Launching mavenrun-9907d59c-ed75-4b72-a794-ce8e220dc346] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=de.bripkens -DarchetypeArtifactId=java-quickstart -DarchetypeVersion=0.2.0 -DgroupId=infinite -DartifactId=Njvhvc -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.arixzz -DoutputDirectory=D:\Practiceee -Dstyle.color=always -U archetype:generate
+2023-10-15 23:38:38,403 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Practiceee\Njvhvc\pom.xml
+2023-10-15 23:38:38,773 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: infinite:Njvhvc:0.0.1-SNAPSHOT @ D:\Practiceee\Njvhvc\pom.xml.
+2023-10-15 23:38:38,987 [Worker-58: Creating java-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Njvhvc/src/main/java
+2023-10-15 23:38:39,011 [Worker-58: Creating java-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Njvhvc/src/test/java
+2023-10-15 23:38:39,710 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:38:39,710 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-15 23:38:39,711 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:38:39,712 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-15 23:38:39,735 [Worker-58: Creating java-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-10-15 23:38:59,409 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:38:59,409 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-15 23:38:59,411 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:38:59,411 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-15 23:40:42,522 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:40:42,523 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-15 23:40:42,524 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:40:42,524 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-15 23:40:52,440 [Worker-64: Launching V1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:40:52,440 [Worker-64: Launching V1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-15 23:40:52,445 [Worker-64: Launching V1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-15 23:40:52,446 [Worker-64: Launching V1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-16 00:03:22,859 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:03:22,859 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-16 00:03:22,861 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:03:22,861 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-16 00:03:43,274 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:03:43,274 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-16 00:03:43,276 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:03:43,276 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-16 00:04:10,021 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:04:10,021 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-16 00:04:10,022 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:04:10,022 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-16 00:04:50,516 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:04:50,517 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-16 00:04:50,518 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:04:50,518 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources
+2023-10-16 00:04:56,893 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:04:56,893 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\main\resources
+2023-10-16 00:04:56,895 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-16 00:04:56,895 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practiceee\Njvhvc\src\test\resources

@@ -1,0 +1,92 @@
+package com.java.etc;
+
+public class C6 {
+
+	 public static String reverse(String str) {
+	        char[] characters = str.toCharArray();
+	        int left = 0;
+	        int right = str.length() - 1;
+	        while (left < right) {
+	            char temp = characters[left];
+	            characters[left] = characters[right];
+	            characters[right] = temp;
+	            left++;
+	            right--;
+	        }
+	        return new String(characters);
+	    }
+
+	    public static void main(String[] args) {
+	        String input = "Java Programming";
+	        String reversed = reverse(input);
+	        System.out.println(reversed);
+	    }
+	}
+	Find Substring:
+	Check if a string contains a particular substring.
+
+	java
+	Copy code
+	public class SubstringFinder {
+	    public static boolean containsSubstring(String str, String substring) {
+	        return str.contains(substring);
+	    }
+
+	    public static void main(String[] args) {
+	        String text = "The quick brown fox";
+	        String substring = "brown";
+	        boolean contains = containsSubstring(text, substring);
+	        System.out.println("Contains Substring: " + contains);
+	    }
+	}
+	String to Uppercase:
+	Convert a string to uppercase.
+
+	java
+	Copy code
+	public class UppercaseConverter {
+	    public static String toUppercase(String str) {
+	        return str.toUpperCase();
+	    }
+
+	    public static void main(String[] args) {
+	        String input = "This is a sample text.";
+	        String uppercase = toUppercase(input);
+	        System.out.println(uppercase);
+	    }
+	}
+	String Trimming:
+	Remove leading and trailing whitespace from a string.
+
+	java
+	Copy code
+	public class StringTrimmer {
+	    public static String trimString(String str) {
+	        return str.trim();
+	    }
+
+	    public static void main(String[] args) {
+	        String input = "    This is a trimmed string.    ";
+	        String trimmed = trimString(input);
+	        System.out.println(trimmed);
+	    }
+	}
+	
+	public class SubstringReplacer {
+	    public static String replaceSubstring(String str, String target, String replacement) {
+	        return str.replaceAll(target, replacement);
+	    }
+
+	    public static void main(String[] args) {
+	        String input = "The quick brown fox jumps over the lazy dog.";
+	        String target = "fox";
+	        String replacement = "cat";
+	        String result = replaceSubstring(input, target, replacement);
+	        System.out.println(result);
+	    }
+	}
+
+	}
+
+
+

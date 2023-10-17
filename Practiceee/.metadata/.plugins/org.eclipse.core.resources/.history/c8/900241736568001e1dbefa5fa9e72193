@@ -1,0 +1,30 @@
+package com.java.practice;
+import java.util.*;
+public class Rectangle {
+
+	int length;
+	int breadth;
+	
+	
+	public int area() {
+		return length*breadth;
+	}
+	public int perimeter() {
+		return 2*(length+breadth);
+	}
+	
+	public static void main(String[] args) {
+		
+		Rectangle obj=new Rectangle();
+		Scanner sc=new Scanner(System.in);
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+}
